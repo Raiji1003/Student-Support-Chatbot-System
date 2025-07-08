@@ -1,4 +1,4 @@
-# Student-support-Chatbot
+# Student-support-Chatbot-System
 
 This Student Chatbot offers:
 Instant access to college activities and campus events.
